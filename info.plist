@@ -144,7 +144,7 @@
 				<key>runningsubtext</key>
 				<string>Searching...</string>
 				<key>script</key>
-				<string>python ./ynab-parse.py {query}</string>
+				<string>python ./alfred-ynab.py {query}</string>
 				<key>subtext</key>
 				<string>Check balance in a YNAB category</string>
 				<key>title</key>
