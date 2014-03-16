@@ -3,10 +3,10 @@
 # @Author: Evan Laske
 # @Date:   2014-03-15 15:09:17
 # @Last Modified by:   Evan Laske
-# @Last Modified time: 2014-03-15 15:13:27
+# @Last Modified time: 2014-03-15 21:01:30
 
 import os.path
-import ynabparse
+from pynab import ynabparse
 import alp
 
 if __name__ == "__main__":   
