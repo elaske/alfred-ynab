@@ -1,0 +1,4 @@
+[submodule "pynab"]
+	path = pynab
+	url = https://github.com/elaske/pynab.git
+	branch = master
